@@ -26,4 +26,4 @@ Informasi teman, tempat, dan jarak pada versi demo merupakan data contoh, bukan 
 **Tagline:** *Find your people, feel closer.*
 
 ## Tangkapan Layar
-![Tampilan NearYou](Screen1.jpeg)(Screen2.jpeg)
+![Tampilan NearYou](Screen1.jpeg)![Tampilan NearYou](Screen2.jpeg)
